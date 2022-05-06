@@ -1,1 +1,1 @@
-i am read book PRO Git
+I am reading book PRO GIT
